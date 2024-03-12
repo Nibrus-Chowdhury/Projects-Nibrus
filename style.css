@@ -1,0 +1,21 @@
+ /* ORIGINAL TASK PUPILS STARTED WITH
+Full credit to code.org for task */
+
+body {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+}
+
+h1 {
+  border: 5px solid red;
+  text-align: center;
+  margin-left: 300px;
+  margin-right: 300px;
+}
