@@ -1,0 +1,33 @@
+ /* Full credit to code.org for task */
+body {
+  align-items: center;
+  background-color: #116911;
+  text-align: center;
+}
+p {
+  color: black;
+}
+h1 {
+  color: #17c700;
+  font-family: courior, monospace;
+}
+.container_elephant {
+  position: relative;
+}
+img.container_elephant {
+  
+}
+.elephant_text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  transition: 0.5s;
+}
+/* added image height of 150px */
+img{
+  height: 250px;
+  width: 300px;
+  transition: 0.5s;
+}
+
