@@ -1,0 +1,22 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color: orange;
+}
+h1 {
+  color: red;
+  font-family: calibri;
+}
+button {
+  background-color: grey;
+  font-family: calibri;
+  color: red;
+  border-radius: 10px;
+  border-color: red;
+}
+
+p {
+  font-size: 20px;
+}
