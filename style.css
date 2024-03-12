@@ -1,0 +1,61 @@
+/* Insert any CSS code below here */
+
+body{
+  background-color:white;
+  background-color: #192655;
+}
+
+h1{
+  border: solid;
+  border-radius: 5px;
+  margin-inline-start: 22%;
+  margin-inline-end: 22%;
+  margin-bottom: 0%;
+  }
+
+h2 {
+  color: #E1AA74;
+  font-weight: 700;
+  font-style: italic;
+}
+
+
+p{
+  font-size:30px;
+  color:black;
+  font-family: calibri;
+  color: #E1AA74;
+}
+
+h3 {
+  font-weight: 700;
+  font-size:14px;
+  color:black;
+  font-family: calibri;
+  color: #E1AA74;
+}
+
+ul {
+  font-family: calibri;
+  color: #E1AA74;
+  margin-inline-end:85%;
+  border: solid;
+  font-size: 30px;
+}
+
+ol {
+  font-family: calibri;
+  color: #E1AA74;
+  border: solid;
+  font-size: 30px;
+}
+
+img {
+  border: solid;
+  border-color: #F3F0CA;
+}
+
+h4 {
+  color: #E1AA74;
+  margin: 0%;
+}
